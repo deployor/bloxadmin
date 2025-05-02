@@ -13,7 +13,7 @@
     "@fontsource/roboto-mono": "^5.0.5",
     "apexcharts": "^3.41.1",
     "highlight.js": "^11.8.0",
-    "json-editor-vue": "^0.10.6",
+    "json-editor-vue": "^0.17.2",
     "lodash": "^4.17.21",
     "lucide-vue-next": "^0.263.0",
     "parse-duration": "^2.1.3",
